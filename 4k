@@ -1,0 +1,42 @@
+<channels>                                                     
+<channel>
+<name>[COLOR green]▲[/COLOR][B]4k[/B] </name>
+<thumbnail>https://www.copeltelecom.com/site/wp-content/uploads/2016/11/iStock-504448596.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/4k</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B][COLOR red]Total[/COLOR]: 243 Filmes[/B]
+</info>
+</channel>
+</channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>                                                     
+<channel>
+<name>[COLOR green]▲[/COLOR][B]Imax/Open Matte[/B]</name>
+<thumbnail>https://assets.b9.com.br/wp-content/uploads/2018/09/imax-b9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Imax</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B]Aba feita para as tvs que nao suportam [COLOR cyan]4K(3840X2160)[/COLOR]! Filmes aqui estao em [COLOR cyan]IMAX ULTRA FULL HD (1980x1080)[/COLOR][/B]
+[B][COLOR red]Total[/COLOR]: 40 Filmes[/B]
+</info>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>                                                     
+<channel>
+<name>[COLOR green]▲[/COLOR][B]Remux[/B] </name>
+<thumbnail>https://lh3.googleusercontent.com/proxy/CssI_qziVxoZ1uBY4F9pIfnRXsWp529it1ZoniSA2OZfDK3mxqUMxEVkIwmAFqQOvVzVbtvEGGJK2I-tmhv48gFzsItJ3cVY4unizmM</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Remux</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B][COLOR red]Total[/COLOR]: 45 Filmes[/B]
+
+[B][COLOR cyan] Remux[/COLOR] tem a qualidade total, sem nenhuma perda de qualidade.[/B]
+
+[B][COLOR yellow]Necessario[/COLOR]:Ajuste de buffer / bom processador /boa internet(+50mb)[/B]
+</info>
+</channel>
+</channels>
