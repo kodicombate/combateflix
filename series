@@ -1,0 +1,49 @@
+<channels>
+<channel>
+<name>[COLOR green]▲[/COLOR][B]Séries[/B] </name>
+<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/serie.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/series</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B][COLOR yellow]Atualizado em[/COLOR]: 11/03[/B]
+[B][COLOR yellow]Adicionados[/COLOR]: 13 Séries[/B]
+[B][COLOR red]Total[/COLOR]: 142 Séries[/B]
+
+</info>
+</channel>
+</channels>
+
+
+
+<channels>
+<channel>
+<name>[COLOR green]▲[/COLOR][B]Seriados[/B] </name>
+<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/serie.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/seriados</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B][COLOR yellow]Atualizado em[/COLOR]: 09/02[/B]
+[B][COLOR yellow]Adicionados[/COLOR]: 04 Seriados[/B]
+[B][COLOR red]Total[/COLOR]: 11 Seriados[/B]
+
+</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[COLOR green]▲[/COLOR][B]Animações[/B] </name>
+<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/serie.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/serie%20animada</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B][COLOR yellow]Atualizado em[/COLOR]: 11/03[/B]
+[B][COLOR yellow]Adicionados[/COLOR]: 20 Animacoes[/B]
+[B][COLOR red]Total[/COLOR]: 20 Animaçoes[/B]
+
+</info>
+</channel>
+</channels>
+
+
