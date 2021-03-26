@@ -1,12 +1,12 @@
 <channels>
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Séries[/B] </name>
+<name>[COLOR green]▲[/COLOR][COLOR orange][B]Séries[/B][/COLOR]</name>
 <thumbnail>https://www.wallpapertip.com/wmimgs/56-568119_divergent-wallpapers-background-sries.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodicombate/combateflix/main/sessions</externallink>
 <fanart>https://revistabula.com/wp/wp-content/uploads/2015/06/filmes.png</fanart>
 <info>
-[B][COLOR yellow]Atualizado em[/COLOR]: 11/03[/B]
-[B][COLOR yellow]Adicionados[/COLOR]: 13 Séries[/B]
+[B][COLOR brown]Atualizado em[/COLOR]: 11/03[/B]
+[B][COLOR brown]Adicionados[/COLOR]: 13 Séries[/B]
 [B][COLOR red]Total[/COLOR]: 142 Séries[/B]
 
 </info>
@@ -17,13 +17,13 @@
 
 <channels>
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Seriados[/B] </name>
+<name>[COLOR green]▲[/COLOR][COLOR orange][B]Seriados[/B][/COLOR]</name>
 <thumbnail>https://www.wallpapertip.com/wmimgs/56-568119_divergent-wallpapers-background-sries.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/seriados</externallink>
 <fanart>https://revistabula.com/wp/wp-content/uploads/2015/06/filmes.png</fanart>
 <info>
-[B][COLOR yellow]Atualizado em[/COLOR]: 09/02[/B]
-[B][COLOR yellow]Adicionados[/COLOR]: 04 Seriados[/B]
+[B][COLOR brown]Atualizado em[/COLOR]: 09/02[/B]
+[B][COLOR brown]Adicionados[/COLOR]: 04 Seriados[/B]
 [B][COLOR red]Total[/COLOR]: 11 Seriados[/B]
 
 </info>
@@ -33,13 +33,13 @@
 
 <channels>
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Animações[/B] </name>
+<name>[COLOR green]▲[/COLOR][COLOR orange][B]Animações[/B][/COLOR]</name>
 <thumbnail>https://www.wallpapertip.com/wmimgs/56-568119_divergent-wallpapers-background-sries.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/serie%20animada</externallink>
 <fanart>https://revistabula.com/wp/wp-content/uploads/2015/06/filmes.png</fanart>
 <info>
-[B][COLOR yellow]Atualizado em[/COLOR]: 11/03[/B]
-[B][COLOR yellow]Adicionados[/COLOR]: 20 Animacoes[/B]
+[B][COLOR brown]Atualizado em[/COLOR]: 11/03[/B]
+[B][COLOR brown]Adicionados[/COLOR]: 20 Animacoes[/B]
 [B][COLOR red]Total[/COLOR]: 20 Animaçoes[/B]
 
 </info>
